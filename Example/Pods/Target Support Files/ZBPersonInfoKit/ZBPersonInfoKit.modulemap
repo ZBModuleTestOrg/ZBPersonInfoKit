@@ -1,0 +1,6 @@
+framework module ZBPersonInfoKit {
+  umbrella header "ZBPersonInfoKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

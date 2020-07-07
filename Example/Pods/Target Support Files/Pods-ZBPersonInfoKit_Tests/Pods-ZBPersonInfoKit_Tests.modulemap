@@ -1,0 +1,6 @@
+framework module Pods_ZBPersonInfoKit_Tests {
+  umbrella header "Pods-ZBPersonInfoKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

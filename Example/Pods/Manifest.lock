@@ -1,0 +1,16 @@
+PODS:
+  - ZBPersonInfoKit (0.1.0)
+
+DEPENDENCIES:
+  - ZBPersonInfoKit (from `../`)
+
+EXTERNAL SOURCES:
+  ZBPersonInfoKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZBPersonInfoKit: 785d47541aacd8ac8a9aaf93fd1bf25e63b1ec7c
+
+PODFILE CHECKSUM: 97f4be96b9d846c69d1469beeb84520355de228d
+
+COCOAPODS: 1.9.1
